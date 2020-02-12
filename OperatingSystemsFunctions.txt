@@ -1,0 +1,4 @@
+One Operating System Functions
+Most operating systems perform some of the same functions like powering on a computer or mobile device, using an UI, manage programs, memory and monitor performance. 
+An example of one of these functions is the command-Line. 
+"The user can type commands using short keywords or abbreciations to enter data and instructions."
