@@ -6,3 +6,7 @@ An example of one of these functions is the command-Line.
 Another Operating system function is configuring devices. The driver is a "small program that tells the operating system how to communcate with specific device." Keyboards, mice, webcame, streaming microphone has it's own commands which requires a specific driver. I've had to download software from my computer's website that way I could customize my keyboard and mouse buttons.
 
 Monitoring Performance is a program that "assets and reports information about various computer resources and devices." When running the program you can see the proccessors, drives, networks, and memory usage
+
+Booting:
+"Booting is a process of starting the computer operating system starts the computer to work. It checks the computer and makes it ready to work."
+"a small piece of software, is loaded from the volume boot code that is a part of the volume boot record. It enables you to boot Windows 10/8/7 or Windows Vista operating system."
